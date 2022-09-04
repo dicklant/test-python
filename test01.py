@@ -10,3 +10,6 @@ texte = "OK"
 
 print(texte)
 
+print("un petit ajout")
+
+
