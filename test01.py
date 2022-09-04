@@ -8,3 +8,5 @@ print("Enfin dans GIT")
 
 texte = "OK"
 
+print(texte)
+
